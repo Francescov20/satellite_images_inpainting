@@ -3,11 +3,11 @@
 This project demonstrates how to apply a **UNet-based neural network** to the **image inpainting** problem using **satellite images** from the [EuroSAT](https://www.tensorflow.org/datasets/catalog/eurosat) dataset. The model learns to reconstruct missing or corrupted regions in satellite images using synthetic line masks.
 
 ---
-> 📚 **University Project – Machine Learning @ UNIBO**  
+  **University Project – Machine Learning @ UNIBO**  
 > This repository contains the final assignment for the **Machine Learning course** at the **University of Bologna (UNIBO)**.  
 > The project explores a deep learning approach to solve the problem of **image inpainting** using satellite imagery and a custom **UNet architecture**.  
 >  
-> 🗓️ **Deadline**: within one week from assignment date.
+>  **Deadline**: within one week from assignment date.
 
 ## Project Overview
 
